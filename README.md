@@ -19,15 +19,17 @@ My core focus is **system design, DDD, clean architecture, and cloud-native micr
 
 ### 💼 Experience
 - **Lead Software Engineer – EPAM Systems (2025–Present)**
-- **Senior Software Engineer – Andersen (2024–2025)**
-- Software Engineer @ BITS Orchestra, SYMFA  
+- Senior Software Engineer – Andersen (2024–2025)
+- Software Engineer - BITS Orchestra
+- Software Engineer - SYMFA  
 - Junior Software Developer @ TayqaTech
 
 ---
 
 ### 🎓 Education
 - PhD – Artificial Intelligence (ongoing)  
-- MSc & BSc – Information Technology  
+- MSc – Economics Information System
+- BSc - Information Technology
 
 ---
 
