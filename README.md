@@ -22,7 +22,7 @@ My core focus is **system design, DDD, clean architecture, and cloud-native micr
 - Senior Software Engineer – Andersen (2024–2025)
 - Software Engineer - BITS Orchestra
 - Software Engineer - SYMFA  
-- Junior Software Developer @ TayqaTech
+- Junior Software Developer - TayqaTech
 
 ---
 
