@@ -1,63 +1,75 @@
 ## Hi, I'm Orxan Musayev 👋
 
-Senior Software Engineer | AI & SaaS Builder
+Senior / Lead Software Engineer with 7+ years of hands-on experience in designing and building **scalable, high-performance, distributed systems** on **C# (.NET)**.
 
-I design and build **scalable backend systems**, **production-grade SaaS platforms**, and **AI-powered products**.  
-My focus is not demos or toy projects — I care about **real users, real constraints, and real impact**.
-
----
-
-### 🔧 What I Do
-- Architect and develop **backend-heavy systems**
-- Build **multi-tenant SaaS platforms** from scratch
-- Integrate **AI/ML features** into real products (not buzzwords)
-- Design **secure, maintainable, production-ready** systems
+I specialize in **system design, domain-driven design (DDD), clean architecture, and cloud-native microservices**. My focus is on building **resilient, extensible, and production-ready platforms** rather than demo-level applications.
 
 ---
 
-### 🧠 Tech Stack
-**Languages:**  
-Java, Kotlin, TypeScript, Python  
-
-**Backend & APIs:**  
-Spring Boot, Node.js, REST, gRPC, Microservices  
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Redis  
-
-**Cloud & DevOps:**  
-Docker, CI/CD, Linux, Cloud-native architectures  
-
-**AI / Data:**  
-LLM integrations, AI-powered workflows, automation
+### 🧠 What I Do Best
+- Architect and deliver **business-critical microservices**
+- Design **event-driven systems** using Kafka / RabbitMQ
+- Modernize **legacy monoliths → microservices**
+- Apply **DDD, CQRS, Clean Architecture, SOLID**
+- Build **cloud-native systems** on Azure
+- Ensure **performance, reliability, security, and testability**
+- Write **real tests** (Unit + Integration), not fake coverage
 
 ---
 
-### 🚀 Current Focus
-- Building **AI-driven SaaS products**
-- Turning ideas into **market-ready systems**
-- Exploring **AI use-cases that actually make money**
+### 🛠️ Tech Stack
+**Backend**
+- C#, .NET, ASP.NET Core
+- MediatR, CQRS, EF Core, Dapper
+- PostgreSQL, MSSQL
+
+**Architecture & Infrastructure**
+- Microservices, DDD, Clean Architecture
+- Docker, Kubernetes, OpenShift
+- Azure Cloud, Azure DevOps
+- Kafka, RabbitMQ, Redis
+
+**Testing & Quality**
+- xUnit, Integration Tests, TestContainers
+- CI/CD (Jenkins, Azure DevOps, GitHub)
+
+**Frontend (when needed)**
+- Angular, TypeScript, HTML, CSS
 
 ---
 
-### 📌 Philosophy
-- Clean code > clever code  
-- Shipping > overthinking  
-- Real problems > hype  
+### 💼 Experience
+- **Lead Software Engineer – EPAM Systems (2025–Present)**
+  - Lead architecture and delivery of enterprise-grade microservices
+  - High-throughput event pipelines (Kafka / Event Hub)
+  - Performance optimization & deep root-cause analysis
+  - Close collaboration with product, quants, analysts, stakeholders
+
+- **Senior Software Engineer – Andersen (2024–2025)**
+  - Migrated CRM from monolith to microservices
+  - Implemented async communication (RabbitMQ, Kafka)
+  - CI/CD, Kubernetes, Azure-based deployments
+
+- **Software Engineer – BITS Orchestra (2022–2024)**
+- **Software Developer – SYMFA (2021–2022)**
+- **Junior Software Developer – TayqaTech (2019–2021)**
 
 ---
 
-### 🤝 Open To
-- Serious technical collaborations  
-- Product-focused AI & SaaS projects  
-- Challenging engineering problems  
+### 🎓 Education
+- **PhD – Artificial Intelligence** (2025–Present)
+- **MSc – Information Technology**
+- **BSc – Information Technology**
 
 ---
 
-### 📫 Reach Me
-- GitHub: https://github.com/OrxanMusayev
-- LinkedIn: _(add if you want, otherwise leave it out)_
+### 📫 Contact
+- 📍 Tbilisi, Georgia  
+- 📧 orxanmusayev1102@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/orxanmuss)
+- 💻 [GitHub](https://github.com/OrxanMusayev)
 
 ---
 
-⭐ If you care about quality, scalability, and building things that last — we’ll probably get along.
+> I care about **correct architecture, clean boundaries, and systems that survive real production load**.  
+> If you’re looking for toy projects, this profile is not for you.
