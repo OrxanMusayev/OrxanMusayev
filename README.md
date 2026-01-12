@@ -1,6 +1,6 @@
 ## Hi, I'm Orxan Musayev 👋
 
-Senior / Lead Software Engineer with 7+ years of experience building **scalable, distributed systems** on **C# (.NET)**.
+Lead/Senior Software Engineer with 7+ years of experience building **scalable, distributed systems** on **C# (.NET)**.
 
 My core focus is **system design, DDD, clean architecture, and cloud-native microservices**. I build production-grade systems that handle real load, real data, and real problems.
 
